@@ -1,11 +1,22 @@
-# Markdown notes template on Replit
+# Markdown notes template(s)
  
  
- As of today it is August 11,2023
+ As of today it is August __, 2023.
+ description
+
+	# section header 1
+	## subsection header
+	- [name](url) - description
+	
+	# section header 2
+	## subsection header
+	- [name](url) - description
+	  - [name](url) - description
+	- [name](url) - description
 
 
 
-personaltodo list:
+**Personal list(s)**
 
 - [x] Take kids on walk
 - [ ] Read to kids
