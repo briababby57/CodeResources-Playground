@@ -13,18 +13,14 @@
 	- [name](url) - description
 	  - [name](url) - description
 	- [name](url) - description
-# Blockquotes
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
 
-
-
->**Notes**
->This is a note.
-
-
-
-> **Warning**
-> This is a warning.
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
 
 
 
