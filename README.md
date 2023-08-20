@@ -1,4 +1,4 @@
-# Markdown notes template(s)
+# Markdown Note(s)
  
  
  As of today it is August __, 2023.
