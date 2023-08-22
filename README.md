@@ -1,5 +1,5 @@
 ********
-# Code Guide
+# Python Code Guide
 *******
 <footer>
  <p>This is a code guide so that i can always come back to for help. </p>
