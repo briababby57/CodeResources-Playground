@@ -1,9 +1,10 @@
 ********
 # Code Guide
 *******
-
+<footer>
  <p>This is a code guide so that i can always come back to for help. </p>
  <p>This Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
+ </footer>
 
 > Anything that is useful during my coding journey.
 
