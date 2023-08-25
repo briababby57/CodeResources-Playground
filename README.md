@@ -1,12 +1,12 @@
 ********
-# Code Guide "CoWik"
+# Code Guide As "CoWik"
 *******
 <footer>
- <p>This is a code guide so that i can always come back to for help. </p>
- <p>This Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
- </footer>
+ <p>CoWik also Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
+<footer>
+<p>Cowik is also my goto when in doubt or confused</foo
 
-> Anything that is useful during my coding journey.
+> CoWik will be my "coding bff" 1. AlwYs there when in needAnything that is useful during my coding journey.
 
 ````python
 
