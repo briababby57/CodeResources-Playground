@@ -3,9 +3,9 @@
 *******
 <footer>
  <p>CoWik also Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
-<footer>
-<p>Cowik is also my goto when in doubt or confused</foo
+<p>Cowik is also my goto when in doubt or confused</p>
 
+ <footer>
 > CoWik will be my "coding bff" 1. AlwYs there when in needAnything that is useful during my coding journey.
 
 ````python
