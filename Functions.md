@@ -7,11 +7,11 @@ we can use many features such as decorator, annotation, docstrings, default
 arguments and so on to define a function. In this cheat sheet, it collects
 many ways to define a function and demystifies some enigmatic syntax in functions.
 
-
 .. contents:: Table of Contents
     :backlinks: none
 
  Functions
+
 ------------------
 Documentation provides programmers hints about how a function is supposed to
 be used. A docstring gives an expedient way to write a readable document of
@@ -29,9 +29,8 @@ format of docstrings.
     ...
     >>> example.__doc__
     'This is an example function.'
-    >>> help(example)
+    >>> help(example)    
 
-    
 Option Arguments
 ----------------
 
@@ -57,7 +56,9 @@ Unpack Arguments
     ...
     >>> foo(*("FOO", "BAR"), **{"c": "baz"})
     FOO BAR baz
+
 Keyword-Only Arguments
+
 ----------------------
 
 **New in Python 3.0**
@@ -72,7 +73,8 @@ Keyword-Only Arguments
     >>> f(1, 2, 3)
     Traceback (most recent call last):
       File "<stdin>", line 1, in <module>
-    TypeError: f() takes 2 positional arguments but 3 were 
+    TypeError: f() takes 2 positional arguments but 3 were
+     
 Annotations
 -----------
 

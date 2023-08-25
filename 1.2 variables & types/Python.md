@@ -17,7 +17,8 @@ You dont have ro declare a the type of variable Python will automatically. The m
 ## 1.3 Basic Arithmetic
 
    Heres the basic arithmetics python accepts:
-   - Addition (+)
+
+- Addition (+)
 
 - Subtraction (-)
 - Multiplication (*)
