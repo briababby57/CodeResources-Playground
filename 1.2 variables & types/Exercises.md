@@ -14,5 +14,9 @@ personal_info()
 
 
  Do some basic arithmetic: add, subtract, multiply, and divide some numbers.
+
+
 Try using the modulus and exponentiation operators.
+
+ 
  Find out the types of all the variables you’ve created using the type() function.
