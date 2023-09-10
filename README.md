@@ -48,14 +48,14 @@ print ('I owe the grocer $%.2f' % grocery_bill)
   <h3>365/"life"  Agentee AI</h3>
 input("What's your name?: ")
   
-LAgentee AI: "I'm your Life Agentee AI. I'm here for all your coding doubts and
+LAgentee AI: "I'm LAgentee AI. 
+I'm here for all your coding doubts and
+
+
 |-----:|-----------|
-|     1| Pythom|
-|     2| CSS    |
+|     1| Python|
+|     2| CSS    |CNN
 |     3| Javascript       |
-
-
-
 |     4| HTML.    |
 
 </details>
