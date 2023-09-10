@@ -4,29 +4,30 @@
 
 
 <footer>
-
- 
  <p>CoWik also Serves as a cheatsheet for Markdown, Python, Javascript, CSS, & HTML.</p>
 
 
  
- __light weight wiki specifically for coding, web dev, etc.__
+ _light weight wiki specifically for coding, web dev, etc._
 
  
 
  <p>Cowik is also my goto when in doubt or confused</p>
-
  <footer>
 
+  
   > When it comes to anything coding, you can count on CoWik! 
   
 
-  1. Always there when in need 
+
+  1. Always there when in need
+
+  . 
   2. Able to be trained to serve as a 365 "life agent"
 
 
-````python
 
+````python
 prices = {
     'apple': 0.40, 'banana': 0.50
 }
