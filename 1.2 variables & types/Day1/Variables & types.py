@@ -5,7 +5,7 @@
 
 variables are created when a value is assigned. 
 
-````python
+
 a = 10
 
 b = "bria"
