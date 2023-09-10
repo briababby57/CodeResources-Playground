@@ -46,12 +46,7 @@ print ('I owe the grocer $%.2f' % grocery_bill)
 > Highlights information that users should take into account, even when skimming.
 
  <details>
-  <h3>365/"life"  Agentee AI</h3>
-input("What's your name?: ")
-  
-LAgentee AI: "I'm LAgentee AI. 
-I'm here for all your coding doubts and
-
+ 
 
 |-----:|-----------|
 |     1| Python|
