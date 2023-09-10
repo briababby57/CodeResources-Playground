@@ -3,7 +3,7 @@
 
 ## 1.2
 
-variables are created when a value is assigned. 
+# variables are created when a value is assigned. 
 
 
 a = 10
@@ -16,13 +16,13 @@ print(a)
 
 print(b)
 
- variables can change even after being set 
+ #variables can change even after being set 
  x = 10     # x is of type int
 x = "bria" # x is now of type str
 print(x) 
 
 
-To retrieve data type of a variable you can
+#To retrieve data type of a variable you can
 
 x = str(3)    # x will be '3'
 y = int(3)    # y will be 3
@@ -36,7 +36,7 @@ A = 5
 
 
 
-'Data types are very important using python. You dont have to declare the type of variable Python will automatically. The most common types of data types python uses are'
+#'Data types are very important using python. You dont have to declare the type of variable Python will automatically. The most common types of data types python uses are'
 
    1. int: an integer, e.g., 1, 2, 3
    2. float: a floating-point (decimal) number, e.g., 1.0, 1.5, 3.14
@@ -48,8 +48,8 @@ A = 5
    
 
 ## 1.3 Basic Arithmetic
-Performs common mathematical operations. 
-   Heres the basic arithmetics python accepts:
+# Performs common mathematical operations. 
+   #Heres the basic arithmetics python accepts:
    - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
@@ -57,7 +57,7 @@ Performs common mathematical operations.
 - Exponentiation (**)
 - Modulus (%)
 - Floor division (//)
-Heres how they can be used:
+# Heres how they can be used:
 
 
 x = 10
